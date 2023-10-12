@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Soul
+  - Enemy
+  - PlayerBullet
+  - EnemyBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Platform
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Objects
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3926519121
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platforms
+    uniqueID: 1533285383
+    locked: 0
+  - name: Enemy
+    uniqueID: 2108067377
+    locked: 0
+  - name: Objects
+    uniqueID: 3504497087
+    locked: 0
+  - name: Player
+    uniqueID: 1355225305
+    locked: 0
